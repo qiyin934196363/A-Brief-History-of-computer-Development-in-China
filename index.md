@@ -8,6 +8,8 @@
 2003年，百万亿次数据处理超级服务器曙光4000L通过国家验收，再一次刷新国产超级服务器的历史纪录，使得国产高性能产业再上新台阶。
 
 ![神威1](https://github.com/qiyin934196363/A-Brief-History-of-computer-Development-in-China/blob/gh-pages/2000.jpg?raw=true'计算机神威1')
-#### 计算机神威1
+#### *计算机神威1*
 
-# [主页](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/)
+*参考文献：【中国计算机发展历史】https://mbd.baidu.com/ma/s/VTDPguzP*
+
+## [主页](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/)
