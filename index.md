@@ -1,15 +1,12 @@
 # 中国计算机发展历史
   
-## 2000-2005
+## 概述
 
-2000年，我国自行研制成功高性能计算机“神威l”，其主要技术指标和性能达到国际先进水平。我国成为继美国、日本之后世界上第三个具备研制高性能计算机能力的国家。
-2001年，中科院计算所研制成功我国第一款通用CPU———龙芯"芯片。
-2002年，曙光公司推出完全自主知识产权的“龙腾"服务器，龙腾服务器采用了“龙芯-1”CPU，采用了曙光公司和中科院计算所联合研发的服务器专用主板，采用曙光LINUX操作系统，该服务器是国内第一台完全实现自有产权的产品，在国防、安全等部门将发挥重大作用。
-2003年，百万亿次数据处理超级服务器曙光4000L通过国家验收，再一次刷新国产超级服务器的历史纪录，使得国产高性能产业再上新台阶。
+中国的计算机（主要指电子计算机）事业起步于20世纪50年代中期，与国外同期的先进计算机水平相比，起步晚了约10年，在计算机的发展过程中，中国经历了各种困难，走过了一段不平凡的历程。随着科研人员艰苦卓绝的奋斗，使中国的研制水平从与国外的差距整整一代直至达到国际前沿水平。中国自主研发的计算机为国防和科研事业做出了重要贡献，并且推动了计算机产业的发展。截至目前，中国既研制出了世界上计算速度最快的高性能计算机，也成为了国际上最大的微机生产基地和主要市场。与此同时，中国计算机事业的发展呈现出多元化的发展趋势，与国外发达国家基本同步地形成了一系列新的学科，这些学科也获得了快速的发展，很多领域在技术研发或产业化上，达到甚至超越了同期国外水平。
 
-![神威1](https://github.com/qiyin934196363/A-Brief-History-of-computer-Development-in-China/blob/gh-pages/2000.jpg?raw=true'计算机神威1')
-###### *图：计算机神威1*
+## 年份
 
-*参考文献：【中国计算机发展历史】https://mbd.baidu.com/ma/s/VTDPguzP*
-
-## [主页](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/)
+### [1950—1955](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1950.html)    [1955—1960](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1955.html) [1960—1965](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1960.html) [1965—1970](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1965.html)
+### [1970—1975](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1970.html) [1975—1980](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1975.html) [1980—1985](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1980.html) [1985—1990](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1985.html)
+### [1990—1995](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1990.html) [1995—2000](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1995.html) [2000—2005](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2000.html) [2005—2010](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2005.html)
+### [2010—2015](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2010.html) [2015—2020](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2015.html)
