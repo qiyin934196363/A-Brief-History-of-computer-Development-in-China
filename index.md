@@ -17,8 +17,6 @@
 
 *【中国计算机发展史】https://www.wendangxiazai.com/b-1b63c6ef81c758f5f61f67b9.html*
 
-*【中国第一台模拟电子计算机】https://wenda.so.com/q/1376531129063512?src=140&q=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%8F%B0%E6%A8%A1%E6%8B%9F%E5%BC%8F%E7%94%B5%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA*
-
 *【中国第一台计算机诞生在什么时候？_百度知道】https://zhidao.baidu.com/question/268995668574869285.html*
 
 *【历史回顾-我国的计算机发展历程】http://www.xdowns.com/article/itnews/Article_431.html*
@@ -32,8 +30,6 @@
 *【古董电脑室：2018日记簿（八） - 知乎】https://zhuanlan.zhihu.com/p/54815941*
 
 *【757大型向量计算机组件-二类历史记忆-中国计算机学会】https://www.ccf.org.cn/c/2018-09-12/652327.shtml*
-
-*【天才程序员求伯君|界面新闻 · JMedia】https://www.jiemian.com/article/884527.html*
 
 *【水木清华BBS_360百科】https://baike.so.com/doc/5393449-5630399.html*
 
