@@ -7,13 +7,6 @@
 ## 年份
 
 ### [1950—1955](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1950.html)    [1955—1960](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1955.html) [1960—1965](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1960.html) [1965—1970](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1965.html)
-### [1970—1975](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1970.html)
-### [1975—1980](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1975.html)
-### [1980—1985](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1980.html)
-### [1985—1990](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1985.html)
-### [1990—1995](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1990.html)
-### [1995—2000](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1995.html)
-### [2000—2005](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2000.html)
-### [2005—2010](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2005.html)
-### [2010—2015](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2010.html)
-### [2015—2020](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2015.html)
+### [1970—1975](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1970.html) [1975—1980](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1975.html) [1980—1985](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1980.html) [1985—1990](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1985.html)
+### [1990—1995](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1990.html) [1995—2000](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1995.html) [2000—2005](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2000.html) [2005—2010](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2005.html)
+### [2010—2015](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2010.html) [2015—2020](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2015.html)
