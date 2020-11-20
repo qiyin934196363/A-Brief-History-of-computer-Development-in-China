@@ -60,4 +60,4 @@
 
    总体而言，这一阶段的特点是：通过应用促进计算机研制的发展，为大型应用系统工程配套实现了产用结合，推动了微型机的国产化。
   
-### [1950](https://github.com/qiyin934196363/A-Brief-History-of-computer-Development-in-China/blob/gh-pages/1.md)
+### [1950](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1.html)
