@@ -13,6 +13,8 @@
 
 ## 参考文献
 
+*【中国计算机发展史】https://www.wendangxiazai.com/b-1b63c6ef81c758f5f61f67b9.html*
+
 *【中国计算机发展历史】https://mbd.baidu.com/ma/s/VTDPguzP*
 
 *【中国计算机发展历史】https://mbd.baidu.com/ma/s/VTDPguzP*
