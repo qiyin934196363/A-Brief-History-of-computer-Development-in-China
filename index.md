@@ -13,7 +13,29 @@
 
 ## 参考文献
 
+*【新中国60年进化论_60年计算进化：不断超越自我】https://tech.qq.com/zt/2009/jinhualun/computer.htm*
+
 *【中国计算机发展史】https://www.wendangxiazai.com/b-1b63c6ef81c758f5f61f67b9.html*
+
+*【中国第一台模拟电子计算机】https://wenda.so.com/q/1376531129063512?src=140&q=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%8F%B0%E6%A8%A1%E6%8B%9F%E5%BC%8F%E7%94%B5%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA*
+
+*【中国第一台计算机诞生在什么时候？_百度知道】https://zhidao.baidu.com/question/268995668574869285.html*
+
+*【历史回顾-我国的计算机发展历程】http://www.xdowns.com/article/itnews/Article_431.html*
+
+*【编程是什么——我国的计算机发展史】https://baijiahao.baidu.com/s?id=1667028739567579416*
+
+*【爱国情、奋斗者_程锦松:见证中国第一台微机的诞生_快资讯】https://www.360kuai.com/pc/988bd55e1fc690ec2?cota=4&kuai_so=1&tj_url=so_rec&sign=360_57c3bbd1&refer_scene=so_1*
+
+*【汉字激光照排，首次出“成品”在新华社(组图)-搜狐新闻】http://news.sohu.com/20060217/n241881599.shtml*
+
+*【古董电脑室：2018日记簿（八） - 知乎】https://zhuanlan.zhihu.com/p/54815941*
+
+*【757大型向量计算机组件-二类历史记忆-中国计算机学会】https://www.ccf.org.cn/c/2018-09-12/652327.shtml*
+
+*【天才程序员求伯君|界面新闻 · JMedia】https://www.jiemian.com/article/884527.html*
+
+*【水木清华BBS_360百科】https://baike.so.com/doc/5393449-5630399.html*
 
 *【中国计算机发展历史】https://mbd.baidu.com/ma/s/VTDPguzP*
 
