@@ -11,6 +11,8 @@
 ### [1995—2000](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/1995.html) [2000—2005](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2000.html) [2005—2010](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2005.html) [2010—2015](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2010.html)
 ### [2015—2020](https://qiyin934196363.github.io/A-Brief-History-of-computer-Development-in-China/2015.html)
 
+### [视频](http://lqywyx.free.idcfengye.com)
+
 ## 参考文献
 
 *【新中国60年进化论_60年计算进化：不断超越自我】https://tech.qq.com/zt/2009/jinhualun/computer.htm*
